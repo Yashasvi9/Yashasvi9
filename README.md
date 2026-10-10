@@ -1,77 +1,91 @@
-# Hi 👋 I'm Yashasvi Sikka
+# Hi 👋, I'm Yashasvi Sikka
 
-🎓 B.Tech (1st Year) – Computer Science & Engineering  
-🤖 Specialization: Artificial Intelligence & Machine Learning  
-🏫 JSS Academy of Technical Education, Noida (Sector 62)
-
----
-
-## 🧑‍🎓 Academic Background
-
-- 🏫 **Schooling:** National Victor Public School, IP Extension  
-- 📘 **Class 10:** 95%  
-- 📗 **Class 12:** 89.80%  
+🎓 **B.Tech 2nd-Year Student | CSE (AI & ML)**  
+🏫 JSS Academy of Technical Education, Noida  
+🔐 Aspiring Cybersecurity Professional | 💻 Python Programmer
 
 ---
 
-## 🚀 About Me
-I am a first-year Computer Science undergraduate with a strong academic foundation and a growing interest in  
-**Artificial Intelligence and Machine Learning**.
+## 👨‍💻 About Me
 
-I enjoy learning by building projects and strengthening my fundamentals in programming, data structures, and problem-solving.  
-Currently, I am focusing on developing practical skills through hands-on coding and real-world projects.
+I'm a second-year Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
+
+I'm interested in cybersecurity, web application security, and the intersection of AI and security. I enjoy learning by building projects, solving programming problems, and strengthening my computer science fundamentals.
+
+- 🐍 Programming in Python and C
+- 🧩 Currently learning Data Structures and Algorithms in Python
+- 🌐 Familiar with full-stack web development
+- 🐧 Learning Linux command-line fundamentals
+- 🔐 Exploring cybersecurity and secure software development
+- 📚 Continuously learning through hands-on practice
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-- Python  
-- C  
-- C++  
-- Java  
-- JavaScript  
+**Programming Languages**
+- Python
+- C
+- JavaScript
 
-### Core CS Concepts
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Problem Solving  
+**Web Development**
+- HTML, CSS, JavaScript
+- React.js
+- Node.js and Express.js
 
-### Web Development
-- HTML  
-- CSS  
-- JavaScript  
+**Databases**
+- MongoDB
 
-### Currently Learning
-- Machine Learning  
-- Data Analysis  
-- AI fundamentals  
+**Tools & Environment**
+- Git and GitHub
+- Linux command-line basics
+
+**Currently Learning**
+- Data Structures and Algorithms in Python
+- Cybersecurity fundamentals
+- Web application security
+- Artificial Intelligence and Machine Learning
 
 ---
 
-## 📂 Projects
-Some of the projects I’ve worked on (more coming soon 🚀):
+## 🚀 Projects & Repositories
 
-- 🎮 Python-based games  
-- 🧠 Beginner Python programs  
-- 📊 Data analysis & ML projects (in progress)
+### 🎮 [Rock Paper Scissors — Python](https://github.com/Yashasvi9/Rock-Paper-Scissors-Python)
+A beginner-friendly Python game demonstrating loops, functions, user input, and random choices.
 
-👉 Explore my repositories to see my work and learning journey.
+### 🃏 [Blackjack Game — Python](https://github.com/Yashasvi9/Blackjack_game_python)
+A terminal-based card game demonstrating control flow, interactive input, and object-oriented programming concepts.
+
+### 🧮 [Simple Calculator — C](https://github.com/Yashasvi9/Simple-calculator)
+A menu-driven calculator supporting basic arithmetic operations using C programming.
+
+### 🧠 [Learning DSA](https://github.com/Yashasvi9/LearningDSA)
+A collection of Python implementations and practice problems documenting my Data Structures and Algorithms learning journey.
+
+### 🔧 [Learning GitHub](https://github.com/Yashasvi9/LearningGithub)
+A learning repository for practicing Git and GitHub commands, workflows, and version control.
+
+### 💻 [Programming Learning](https://github.com/Yashasvi9/programming-learning)
+A repository for programming practice and learning.
 
 ---
 
 ## 🎯 Goals
-- Build a strong foundation in **AI & Machine Learning**
-- Develop real-world ML projects during my B.Tech
-- Gain internship experience
-- Continuously improve as a software and ML engineer
+
+- Build a strong foundation in cybersecurity and computer networks
+- Develop practical skills in web application security
+- Strengthen problem-solving skills through DSA
+- Build projects that demonstrate practical technical knowledge
+- Explore AI security and the intersection of AI/ML and cybersecurity
+- Contribute to collaborative and open-source projects
 
 ---
 
-## 📫 Contact
-📧 Email: **Yashasvisikkaa@gmail.com**  
-🐙 GitHub: https://github.com/Yashasvi9
+## 📫 Connect With Me
+
+📧 Email: yashasvisikka@gmail.com  
+🐙 GitHub: [Yashasvi9](https://github.com/Yashasvi9)
 
 ---
 
-⭐ *Consistent learning, clean code, and meaningful projects.*
+⭐ *Learning consistently, building practically, and improving every day.*
